@@ -1,0 +1,14 @@
+.cell {
+    background-color: #D7F1FA; /* Цвет фона внутри ячейки */
+    padding: 4px; /* Задаём отступ внутри ячейки */
+    font-family: Verdana, serif; /* Задаём шрифт для текста внутри ячейки */
+    font-size: 16pt; /* Делаем шрифт больше */
+    text-align: center; /* Выравниваем текст по центру ячейки */
+}
+
+/* Стиль для вывода сообщений об ошибке */
+.error {
+    color: darkred; /* Цвет текста */
+    font-size: large; /* Размер шрифта */
+    border-style: dashed;
+}
